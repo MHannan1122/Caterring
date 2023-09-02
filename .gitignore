@@ -1,7 +1,0 @@
-*/node_modules/*
-*/.env
-*/uploads/*
-*/dataBaseBackup/*
-*/migrations/*
-backend/package-lock.json
-frontend/package-lock.json
